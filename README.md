@@ -1,4 +1,4 @@
-👋 Hi, I'm **@dhruvvambaliya**!
+👋 Hi, I'm **@dhruv-ambaliya**!
 <!-- **Aspiring Penetration Tester & Capable Computer Scientist** -->
 
 👀 I'm interested in the fascinating world of technology, with a particular passion for unraveling the intricacies of **information security**. 🚀
