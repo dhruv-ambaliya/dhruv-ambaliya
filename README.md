@@ -30,9 +30,12 @@
 * **Certifications** 🎓 - Penetration Testing (Charles Sturt University), Ethical Hacking Essentials - EHE (EC-Council), Cybersecurity Fundamentals (IBM SkillBuild)
 * **Pursuing** 🚀 - OSCP and Security+ certifications
 * **Learning Resources** 💡 - HackerOne, TryHackMe, HackTheBox etc
-<!--
+
 **Let's Connect!** 🤝
 
+[![Linkedin Badge](https://img.shields.io/badge/-dhruv-ambaliya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhruv-ambaliya-/)](https://www.linkedin.com/in/dhruv-ambaliya-/)
+[![Gmail Badge](https://img.shields.io/badge/-ambaliyadhruv123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ambaliyadhruv123@gmail.com)](ambaliyadhruv123@gmail.com)
+<!--
 * **Email:** [email address removed] 📧
 * **LinkedIn:** [Your LinkedIn Profile] 💼
 * **Website:** [Your Website] 🌐
