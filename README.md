@@ -1,7 +1,7 @@
 👋 Hi, I'm **@dhruv-ambaliya**!
 <!-- **Aspiring Penetration Tester & Capable Computer Scientist** -->
 
-👀 I'm interested in the fascinating world of technology, with a particular passion for unraveling the intricacies of **information security**. 🚀
+👀 I'm interested in the fascinating world of technology with a particular passion for unraveling the intricacies of **information security**. 🚀
 
 🌱 I'm currently honing my skills in **penetration testing** and **ethical hacking** while exploring the broader landscape of computer science.
 
