@@ -3,7 +3,7 @@
 
 👀 I'm interested in the fascinating world of technology with a particular passion for unraveling intricacies of **information security**. 🚀
 
-🌱 I'm currently honing my skills in **security research**,**penetration testing** and **ethical hacking** while exploring the broader landscape of computer science.
+🌱 I'm currently honing my skills in **security research**, **penetration testing** and **ethical hacking** while exploring the broader landscape of computer science.
 
 💞️ I'm always open to collaborating on projects related to **cybersecurity**, **web development**, and **automation**. Let's build something awesome together! 🤝
 
