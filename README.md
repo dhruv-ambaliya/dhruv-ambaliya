@@ -34,7 +34,7 @@
 **Let's Connect!** 🤝
 
 [![Linkedin Badge](https://img.shields.io/badge/-dhruvambaliya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhruv-ambaliya-/)](https://www.linkedin.com/in/dhruv-ambaliya-/)
-[![Gmail Badge](https://img.shields.io/badge/-ambaliyadhruv123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ambaliyadhruv123@gmail.com)](ambaliyadhruv123@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-ambaliyadhruv123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ambaliyadhruv123@gmail.com)](mailto:ambaliyadhruv123@gmail.com)
 <!--
 * **Email:** [email address removed] 📧
 * **LinkedIn:** [Your LinkedIn Profile] 💼
