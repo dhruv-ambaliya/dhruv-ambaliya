@@ -9,7 +9,7 @@
 
 **Technical Skills**
 
-* **Programming:** Python 🐍, JavaScript 🌐, HTML5 & CSS3 🎨, SQL 🗄️
+* **Programming:** Python 🐍, JavaScript 🌐, C, C++ 🖥️, HTML5 & CSS3 🎨, SQL 🗄️
 * **Networking:** TCP/IP, DNS, network security fundamentals 🔒
 * **Operating Systems:** Linux 🐧(Ubuntu, Kali), Windows 💻
 * **Tools:** Nmap 🔍, Nessus 🛡️, Wireshark 🦈, Burp Suite 🕵️‍♂️, Metasploit 💥, Git 🐙
@@ -33,7 +33,7 @@
 
 **Let's Connect!** 🤝
 
-[![Linkedin Badge](https://img.shields.io/badge/-dhruvambaliya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhruv-ambaliya-/)](https://www.linkedin.com/in/dhruv-ambaliya-/)
+[![Linkedin Badge](https://custom-icon-badges.demolab.com/badge/dhruvambaliya-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/dhruv-ambaliya-/)
 [![Gmail Badge](https://img.shields.io/badge/-ambaliyadhruv123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ambaliyadhruv123@gmail.com)](mailto:ambaliyadhruv123@gmail.com)
 <!--
 * **Email:** [email address removed] 📧
@@ -42,8 +42,8 @@
 -->
 **💞️ I'm always open to collaborating on projects related to cybersecurity, web development, or any other tech-related endeavors. Let's connect and create something amazing!** 👋
 </details>
-
-<!-- **Expand to view**
+<!--
+ **Expand to view**
 <details>
   <summary><b>:zap: GitHub Profile Stat</b></summary>
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=lauragift21&show_icons=true" />
@@ -54,4 +54,3 @@
    <a href="https://github.com/lauragift21/"><img alt="Gift' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=lauragift21&custom_title=Gift's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 </details> -->
-
