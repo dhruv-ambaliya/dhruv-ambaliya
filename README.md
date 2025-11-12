@@ -35,6 +35,16 @@
 
 [![Linkedin Badge](https://custom-icon-badges.demolab.com/badge/dhruvambaliya-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/dhruv-ambaliya-/)
 [![Gmail Badge](https://img.shields.io/badge/-ambaliyadhruv123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ambaliyadhruv123@gmail.com)](mailto:ambaliyadhruv123@gmail.com)
+[![Website/Blog](https://img.shields.io/badge/HacksofDhruv-000000?logo=squarespace&logoColor=fff)](https://dhruv-ambaliya.github.io/)
+
+---
+<!--
+<details>
+  <summary><b>:zap: See My GitHub Stats & Activity</b></summary>
+  <br/>
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=dhruv-ambaliya&show_icons=true" alt="Dhruv's GitHub Stats" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=dhruv-ambaliya&custom_title=Dhruv's%20Contribution%20Graph&theme=github" alt="Dhruv's Activity Graph" />
+</details>-->
 <!--
 * **Email:** [email address removed] 📧
 * **LinkedIn:** [Your LinkedIn Profile] 💼
