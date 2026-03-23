@@ -3,16 +3,15 @@
 
 👀 My brain is always buzzing with new ideas, whether it's building a cool new app or figuring out how a system works under the hood. 🚀
 
-🌱 I'm currently honing my skills in **security research**, **penetration testing** and **ethical hacking** while exploring the broader landscape of computer science.
-
-💞️ I'm always open to collaborating on projects related to **cybersecurity**, **web development**, and **automation**. Let's build something awesome together! 🤝
+🌱 I enjoy working on security research, penetration testing, incident response automation, CI/CD security, and low-level systems exploration. I'm currently strengthening my skills in offensive security, secure infrastructure, and Rust.
+💞️ I'm always open to collaborating on projects related to **cybersecurity**, **system software**, and **automation**. Let's build something awesome together! 🤝
 
 **Technical Skills**
 
-* **Programming:** Python 🐍, JavaScript 🌐, C, C++ 🖥️, HTML5 & CSS3 🎨, SQL 🗄️
-* **Networking:** TCP/IP, DNS, network security fundamentals 🔒
-* **Operating Systems:** Linux 🐧(Ubuntu, Kali), Windows 💻
+* **Programming:** Python 🐍, JavaScript 🌐, C, C++ 🖥️, SQL 🗄️
 * **Tools:** Nmap 🔍, Nessus 🛡️, Wireshark 🦈, Burp Suite 🕵️‍♂️, Metasploit 💥, Git 🐙
+* - **Systems & Infra:** Linux 🐧(Ubuntu, Kali), Windows 💻, networking fundamentals, CI/CD, automation 🤖
+- **Currently learning:** Rust 🦀, deeper Linux internals, secure systems engineering 🔒
 * **Other:** Problem-solving 🧠, critical thinking 🧐, teamwork 💪
 
 <details>
@@ -50,7 +49,7 @@
 * **LinkedIn:** [Your LinkedIn Profile] 💼
 * **Website:** [Your Website] 🌐
 -->
-**💞️ I'm always open to collaborating on projects related to cybersecurity, web development, or any other tech-related endeavors. Let's connect and create something amazing!** 👋
+**💞️ I'm always open to collaborating on tech-related endeavors. Let's connect and create something amazing!** 👋
 </details>
 <!--
  **Expand to view**
