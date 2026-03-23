@@ -10,7 +10,7 @@
 
 * **Programming:** Python 🐍, JavaScript 🌐, C, C++ 🖥️, SQL 🗄️
 * **Tools:** Nmap 🔍, Nessus 🛡️, Wireshark 🦈, Burp Suite 🕵️‍♂️, Metasploit 💥, Git 🐙
-* - **Systems & Infra:** Linux 🐧(Ubuntu, Kali), Windows 💻, networking fundamentals, CI/CD, automation 🤖
+* **Systems & Infra:** Linux 🐧(Ubuntu, Kali), Windows 💻, networking fundamentals, CI/CD, automation 🤖
 - **Currently learning:** Rust 🦀, deeper Linux internals, secure systems engineering 🔒
 * **Other:** Problem-solving 🧠, critical thinking 🧐, teamwork 💪
 
